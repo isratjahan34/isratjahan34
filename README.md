@@ -7,8 +7,6 @@ I am currently an Honours 3rd-year **Computer Science & Engineering** student at
 - 🔭 **Career Goal:** To become an expert in **Artificial Intelligence & Machine Learning**.
 - 🌱 **Learning Path:** Deepening my knowledge in **ML Algorithms**, Data Processing, and Intelligent Systems.
 - 💻 **Core Skills:** Building logic and projects using **Python, Java, and C++**.
-- ⚙️ **Interests:** IoT, Smart Automation, and Hardware-Software Integration.
-
 ### 🛠️ Featured Projects
 - **Crime Shadow in Bangladesh**: A data-driven analytics project focused on tracking, visualizing, and analyzing crime statistics across Bangladesh to enhance public safety awareness.
 - **Smart Greenhouse Using Arduino**: An automated system designed to monitor and control environmental factors for optimal plant growth.
